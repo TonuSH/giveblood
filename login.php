@@ -78,7 +78,7 @@
         <div class="log_container">
             <div class="screen">
                 <div class="screen__content">
-                    <form class="login">
+                    <form class="login" action="login_submit.php" method="POST">
                         <div class="login__field">
                             <i class="login__icon fas fa-user"></i>
                             <input type="text" name="email" class="login__input" placeholder="Email">

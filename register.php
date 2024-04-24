@@ -72,7 +72,7 @@ include 'connection.php';
                   </li>
                 </ul>
                 <div class="button ms-auto">
-                  <button><a class="nav-link" href="login.html">Login</a></button>
+                  <button><a class="nav-link" href="login.php">Login</a></button>
                   <button><a class="nav-link active" href="register.php">Register</a></button>
               </div>
               </div>
