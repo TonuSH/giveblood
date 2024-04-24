@@ -560,7 +560,6 @@
 }
 /* impect css end */
 
-
  /* volunteer section css start */
 
   .volunteer {
@@ -684,6 +683,7 @@
   }
   
   /* our team css end */
+
  /* Style for Volunteer Opportunities section */
 #be_volunteer a{
     margin-left: 45%;
@@ -1145,32 +1145,17 @@
   height: 42px;
   margin-bottom: 24px;
   padding-left: 2px;
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
   border-radius: 0;
-  -webkit-background-clip: padding-box;
-  -moz-background-clip: padding;
   background-clip: padding-box;
-  -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16);
-  -moz-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16);
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16);
-  -webkit-box-shadow: inset 0 0 0 0 rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: inset 0 0 0 0 rgba(0, 0, 0, 0.2);
   box-shadow: inset 0 0 0 0 rgba(0, 0, 0, 0.2);
-  -webkit-transition: 0.3s 0.2s ease-out;
-  -moz-transition: 0.3s 0.2s ease-out;
-  -o-transition: 0.3s 0.2s ease-out;
   transition: 0.3s 0.2s ease-out;
 }
 .section-contact-block #contact-form input[type=text]:focus,
 .section-contact-block #contact-form input[type=email]:focus,
 .section-contact-block #contact-form input[type=url]:focus,
 .section-contact-block #contact-form input[type=password]:focus {
-  -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16);
-  -moz-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16);
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16);
-  -webkit-box-shadow: inset 0 0 0 0 rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: inset 0 0 0 0 rgba(0, 0, 0, 0.2);
   box-shadow: inset 0 0 0 0 rgba(0, 0, 0, 0.2);
   border: 0px;
   border-bottom: 1px solid #a1a1a1;
@@ -1180,21 +1165,10 @@
   border-bottom: 1px solid #EEE;
   padding-left: 2px;
   margin-bottom: 24px;
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
   border-radius: 0;
-  -webkit-background-clip: padding-box;
-  -moz-background-clip: padding;
   background-clip: padding-box;
-  -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16);
-  -moz-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16);
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16);
-  -webkit-box-shadow: inset 0 0 0 0 rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: inset 0 0 0 0 rgba(0, 0, 0, 0.2);
   box-shadow: inset 0 0 0 0 rgba(0, 0, 0, 0.2);
-  -webkit-transition: 0.3s 0.2s ease-out;
-  -moz-transition: 0.3s 0.2s ease-out;
-  -o-transition: 0.3s 0.2s ease-out;
   transition: 0.3s 0.2s ease-out;
 }
 .section-contact-block #contact-form textarea:focus {
